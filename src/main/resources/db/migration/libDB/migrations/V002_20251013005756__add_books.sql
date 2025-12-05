@@ -1,0 +1,1 @@
+INSERT INTO books (book_id, book_title, author_id, isbn, published_year, available_copies) values (1, 'beauty and the beast', 1, '978-0135166307', 2021, 10)
